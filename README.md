@@ -4,8 +4,8 @@
 brew install git
 brew install go
 
-brew install --cask 1password
-brew install --cask alfred
+brew install --cask 1password /n
+brew install --cask alfred \n
 brew install --cask spotify
 brew install --cask google-chrome
 brew install --cask google-drive
