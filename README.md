@@ -43,3 +43,5 @@ brew install --cask malwarebytes
 brew install --cask notion-calendar
 
 brew install --cask ticktick
+
+brew install --cask skim
