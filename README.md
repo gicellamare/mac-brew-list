@@ -2,6 +2,7 @@
 ### Lista de pacotes e casks utilizados por mim do HomeBrew
 
 brew install git
+
 brew install go
 
 brew install --cask 1password
@@ -19,6 +20,8 @@ brew install --cask microsoft-outlook
 brew install --cask microsoft-excel
 
 brew install --cask microsoft-powerpoint
+
+brew install --cask microsoft-word
 
 brew install --cask slack
 
@@ -45,3 +48,5 @@ brew install --cask notion-calendar
 brew install --cask ticktick
 
 brew install --cask skim
+
+brew install --cask numi
